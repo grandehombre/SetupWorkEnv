@@ -1,7 +1,7 @@
 This application allows you to start a specific working environment, opening the applications 
 you need and placing them at the desired screen locations.
 
-It is controlled by an INI config file, specified as follows
+It is controlled by an INI config file, specified in the command line as follows
 	--config-file="full_pathname"
 	
 Here is the full list of command line switches:
