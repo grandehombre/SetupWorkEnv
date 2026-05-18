@@ -131,5 +131,6 @@ Colorama.Style library
 
 
 
-
+Installing required libraries
+======================
 To install the libraries required by this app, use: **pip install -r requirements.txt**
