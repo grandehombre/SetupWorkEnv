@@ -127,3 +127,9 @@ def main(show_debug_info: bool, dry_run: bool, config_file: str) -> None:
 
 Colorama.Style library
 ======================
+
+
+
+
+
+To install the libraries required by this app, use: **pip install -r requirements.txt**
